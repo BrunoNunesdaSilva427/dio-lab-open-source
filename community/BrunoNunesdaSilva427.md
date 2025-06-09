@@ -10,7 +10,7 @@
 <i>(Montanhas, RN - Brasil)</i>
 
 <!-- Botões com links -->
-<a href="https:www.dio.me/users/brunonunesdasilva134" target="_blank" rel="noopener noreferrer">
+<a href="https://www.dio.me/users/brunonunesdasilva134" target="_blank" rel="noopener noreferrer">
   <img alt="Meu Perfil DIO" src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/bruno-nunes-da-silva-74763b287/" target="_blank" rel="noopener noreferrer">
